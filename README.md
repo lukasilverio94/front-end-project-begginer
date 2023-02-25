@@ -1,2 +1,5 @@
 # front-end-project-begginer
-NFT preview card component (my first repository github)
+
+This is a project of FrontEnd Mentor.
+
+NFT preview card component and my first github repository.
